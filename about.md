@@ -7,4 +7,4 @@ permalink: /about/
 
 <div class="mt50"></div>
 
-Lorep Ipsum
+Lorem Ipsum
