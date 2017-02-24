@@ -1,27 +1,20 @@
 ---
 layout: post
-title: "Testimonies"
+title: Required Documents
 img: diploma.jpeg
 ---
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Praesent
-dignissim, ligula eget maximus congue, nulla nisi semper arcu, non
-finibus lacus turpis at libero. Cras efficitur turpis odio, at dignissim
-massa condimentum a. In condimentum tellus metus, pharetra suscipit
-libero dictum eu. Aliquam nec elit non diam aliquet sodales eu eu felis.
-Integer luctus malesuada velit, in vulputate felis fermentum vel. Sed
-rutrum elit vitae porttitor tempor. Aliquam sit amet ex odio. Nunc
-vestibulum metus a velit tincidunt, ut vehicula dui posuere. Vivamus eu
-orci scelerisque, congue mi et, porttitor elit. Sed elementum ultrices
-facilisis.
+We need you to submit three things to apply:
+1. SAT/ACT scores
+  * SAT: minimum 1230 combined for verbal and math
+  * ACT: minimum 28 points
+2. Sutdent Aid Report from FAFSA
+3. Resume with your current schooling and accolades
 
-Quisque sit amet metus neque. Sed dapibus sagittis pulvinar. Aenean
-scelerisque venenatis justo, quis lacinia nisi porttitor a. Sed nec
-nulla eleifend, bibendum felis vel, pulvinar nibh. Nullam nec lorem non
-sapien sagittis tincidunt quis sit amet eros. Fusce a tincidunt ipsum,
-non imperdiet sem. Etiam tincidunt nisi quis tortor tincidunt, nec
-feugiat odio porttitor. Maecenas tincidunt efficitur feugiat. Nullam
-auctor diam lectus, id pellentesque nibh hendrerit at. Aliquam a dolor
-imperdiet nisi lobortis tristique eu a eros.
-
-
+We hope to see evidence that you are:
+* Ambitious
+* Goal Oriented
+* Self-driven
+* Able to balance several expectations
+* A leader
+* A strong communicator
